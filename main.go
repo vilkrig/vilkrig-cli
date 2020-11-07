@@ -1,5 +1,5 @@
 /*
-Copyright © 2020 Vilkrig Limited <alexander@vilkrig.co.nz>
+Copyright © 2020 Vilkrig Limited <alexander@vilkrig.com>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
